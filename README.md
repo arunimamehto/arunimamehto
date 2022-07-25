@@ -8,7 +8,6 @@ I love to test the quality of code written in some of the computer languages.
 
 Here is something you can do, that always tune up my brain:
   
-<!--   <a href="https://www.buymeacoffee.com/arunimamehto" target="_blank" rel="noreferrer nofollow">
+<a href="https://www.buymeacoffee.com/arunimamehto" target="_blank" rel="noreferrer nofollow">
    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
  </a>
- -->
